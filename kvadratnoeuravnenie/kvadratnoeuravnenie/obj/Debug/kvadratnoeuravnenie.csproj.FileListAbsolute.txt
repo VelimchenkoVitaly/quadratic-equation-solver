@@ -1,0 +1,10 @@
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\bin\Debug\kvadratnoeuravnenie.exe.config
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\bin\Debug\kvadratnoeuravnenie.exe
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\bin\Debug\kvadratnoeuravnenie.pdb
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\obj\Debug\kvadratnoeuravnenie.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\obj\Debug\kvadratnoeuravnenie.Form1.resources
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\obj\Debug\kvadratnoeuravnenie.Properties.Resources.resources
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\obj\Debug\kvadratnoeuravnenie.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\obj\Debug\kvadratnoeuravnenie.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\obj\Debug\kvadratnoeuravnenie.exe
+C:\Users\vital\source\repos\kvadratnoeuravnenie\kvadratnoeuravnenie\obj\Debug\kvadratnoeuravnenie.pdb
